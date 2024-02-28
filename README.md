@@ -64,5 +64,10 @@ py -m pip install --trusted-host pypi.org --trusted-host pypi.python.org --trust
 Congradulations, You have successfully completed the setup process
 
 # Programming
+1. Write the following code:
+
+![image](https://github.com/FWBHS-Engineering/PyArduino-Project-1/assets/39282164/7421cb90-e370-4d25-b6e9-8dc2b6cae855)
+
+2. Try running it on your arduino and see what it does on pin 13
 
 

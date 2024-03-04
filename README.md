@@ -69,5 +69,9 @@ Congradulations, You have successfully completed the setup process
 ![image](https://github.com/FWBHS-Engineering/PyArduino-Project-1/assets/39282164/7421cb90-e370-4d25-b6e9-8dc2b6cae855)
 
 2. Try running it on your arduino and see what it does on pin 13
+3. It probably won't work
+4. Look for answers on Arduino forums
+5. Find (this)[https://forum.arduino.cc/t/control-arduino-from-windows-using-python/129417] link to figure out what's wrong
+6. Now you know that you need to replace the dev string with a com port
 
 
